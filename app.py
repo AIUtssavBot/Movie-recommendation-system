@@ -1,3 +1,4 @@
+
 import streamlit as st
 import pickle
 import pandas as pd
@@ -34,7 +35,9 @@ movies = pd.DataFrame(movies_dict)
 
 print(movies)
 
-selected_movies_list = st.selectbox(movies['title'].values)
+selected_movies_list = st.selectbox(
+"How would you like to be contacted?",
+movies['title'].values)
 
 if st.button("Recommend"):
     names , posters = recommend(selected_movies_list)

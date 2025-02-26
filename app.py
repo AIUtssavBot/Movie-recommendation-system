@@ -36,7 +36,7 @@ movies = pd.DataFrame(movies_dict)
 print(movies)
 
 selected_movies_list = st.selectbox(
-"How would you like to be contacted?",
+"Which movie would you like to see?",
 movies['title'].values)
 
 if st.button("Recommend"):

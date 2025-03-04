@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System  
 
-🚀 **Live Demo:** [Click Here to Try!](https://movie-recommendation-modified.streamlit.app/)  
+🚀 **Live Demo:** [Click Here to Try!](https://movie-recommendation-system-modified.streamlit.app/)  
 
 ## 📌 Overview  
 This **AI-powered Movie Recommendation System** suggests movies based on user preferences. Whether you're in the mood for action, romance, or thriller, this app provides personalized recommendations using machine learning models and embeddings.  
@@ -12,7 +12,7 @@ This **AI-powered Movie Recommendation System** suggests movies based on user pr
 - 🤖 Uses AI-powered recommendations for better accuracy  
 
 ## 🖼️ Demo Screenshot  
-![Movie Recommendation System](https://drive.google.com/file/d/1Tyzyn5uVdMiEBgTmQDhyCsCWl3ornUCt/view?usp=drive_link) *(Replace with actual screenshot)*  
+![Movie Recommendation System](https://github.com/AIUtssavBot/Movie-recommendation-system/blob/3c99dea72183e6a70022bddf9a8e8ef7236b4458/Screenshot%20from%202025-03-04%2018-08-49.png)
 
 ## ⚙️ Tech Stack  
 - **Frontend:** Streamlit  
